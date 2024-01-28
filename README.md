@@ -29,7 +29,6 @@ This project is a **basic implementation** of an Amazon clone webpage, showcasin
 
 To get started with this project, simply **clone the repository**:
 
-```bash
 git clone https://github.com/imshaa/Amazon-Website-Clone.git
 cd Amazon-Website-Clone
 
