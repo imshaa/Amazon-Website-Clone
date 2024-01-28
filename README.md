@@ -58,4 +58,4 @@ Feel free to reach out if you have any questions or suggestions!
 
 ## Live Demo
 
-Check out the live version of the project [here]((https://imshaa.github.io/Amazon-Website-Clone/))!
+Check out the live version of the project ((https://imshaa.github.io/Amazon-Website-Clone/))!
